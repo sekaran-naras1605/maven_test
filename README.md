@@ -1,4 +1,4 @@
-# example for personal poll change 
+# example for webhook trigger poll change 
 test change
 Example Maven project generated using `maven-archetype-quickstart`
 
